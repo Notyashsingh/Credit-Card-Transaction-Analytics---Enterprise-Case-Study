@@ -1,6 +1,6 @@
 ## 💳 Credit Card Transaction Analytics – SQL Case Study
 
-An end-to-end analytics project on **1.29M credit card transactions** for a US issuer, uncovering insights on customer behavior, merchant performance, category trends, and fraud risk using SQL and supporting tools. 
+An end-to-end analytics project on **1.29M credit card transactions** for a US issuer, uncovering insights on customer behavior, merchant performance, category trends, and fraud risk using SQL, Python and other supporting tools. 
 
 ---
 
@@ -133,7 +133,6 @@ Fact: transactions
 |------|---------|---------|
 | PostgreSQL | 15+ | Analytics database |
 | Python | 3.9+ | Data processing |
-| Docker | 20+ | Local environment |
 | Git | 2.30+ | Version control |
 
 ---
