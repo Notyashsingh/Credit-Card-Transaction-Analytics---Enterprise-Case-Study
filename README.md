@@ -51,19 +51,17 @@ Fact: transactions
 - **Avg revenue/customer**: $92.8K
 - **VIP segment**: Top customers contribute **$275K–$296K** each
 
-```
 ![Customer Recency Distribution]([Visualization/Customer Recency Distribution.png](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/Customer%20Recency%20Distribution.png?raw=true)
-```
+
+*Figure 1: Customer Recency Distribution*
 
 ### 🏪 2️⃣ Merchant Performance
 - **693 merchants**; **Top 10** generate **$295K–$391K** each 
 - **Pareto pattern**: <2% merchants drive majority of revenue 
 
-```
 ![Merchant Revenue]([Visualization/Pareto - Top 20 Merchants by Revenue.png](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/Pareto%20-%20Top%2020%20Merchants%20by%20Revenue.png?raw=true)
 
 *Figure 2: Top 20 Merchants Revenue Distribution*
-```
 
 ### 🛒 3️⃣ Category Insights
 | Category | Revenue % | Risk Level |
@@ -73,32 +71,26 @@ Fact: transactions
 | Shopping Net | **9.46%** | **High** |
 | Gas/Transport | **9.16%** | Low |
 
-```
 ![Category Revenue](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/Category-wise%20Revenue%20Share.png?raw=true)
 
 *Figure 3: Category Revenue Share*
-```
 
 ### 🚨 4️⃣ Fraud Analysis
 - **Overall fraud rate**: **0.58%** (7,506 of 1.3M transactions)
 - **Hotspots**: Late-night transactions, online channels, select merchants (2-2.57%)
 
-```
 ![Fraud Trends](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/Fraud%20Rate%20Over%20Time.png?raw=true)
 
 *Figure 4: Fraud Rate Over Time*
-```
 
 ### 📈 5️⃣ Growth Trends
 - **Dec 2019 peak**: **+10% MoM**
 - **2020 YTD revenue**: **$26.24M**
 - **Q2 recovery**: **$14.04M**
 
-```
 ![Revenue Trends](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/71113b04a4d4b10964fde2dc936b1c47523c88ad/Visualizations/M-O-M%20Growth.png)
 
 *Figure 5: Month-Over-Month Revenue*
-```
 
 ---
 
@@ -177,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **PostgreSQL** community
-- **Omdena** data analytics case studies [file:60]
+- **Omdena** data analytics case studies 
 
 ---
 
