@@ -1,12 +1,5 @@
 ## 💳 Credit Card Transaction Analytics – SQL Case Study
 
-[![GitHub stars](https://img.shields.io/github/stars/USER/repo.svg?style=social)](https://github.com/notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study
-/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/USER/repo.svg?style=social)](https://github.com/notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study
-/network/)
-[![License](https://img.shields.io/github/license/notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study
-.svg)](LICENSE)
-
 An end-to-end analytics project on **1.29M credit card transactions** for a US issuer, uncovering insights on customer behavior, merchant performance, category trends, and fraud risk using SQL and supporting tools. 
 
 ---
@@ -102,7 +95,7 @@ Fact: transactions
 - **Q2 recovery**: **$14.04M**
 
 ```
-![Revenue Trends](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/M-O-M%20Growth.png?raw=true)
+![Revenue Trends](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/71113b04a4d4b10964fde2dc936b1c47523c88ad/Visualizations/M-O-M%20Growth.png)
 
 *Figure 5: Month-Over-Month Revenue*
 ```
