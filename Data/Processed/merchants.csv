@@ -1,0 +1,694 @@
+merchant_id,merchant_name,category_id,merchant_lat,merchant_long,merchant_zipcode
+1,"fraud_Rippin, Kub and Mann",1,36.011293,-82.048315,28705.0
+2,"fraud_Heller, Gutmann and Zieme",2,49.159047,-118.186462,
+3,fraud_Lind-Buckridge,3,43.150704,-112.154481,83236.0
+4,"fraud_Kutch, Hermiston and Farrell",4,47.034331,-112.561071,
+5,fraud_Keeling-Crist,5,38.674999,-78.632459,22844.0
+6,"fraud_Stroman, Hudson and Erdman",4,40.653382,-76.15266700000001,17972.0
+7,fraud_Rowe-Vandervort,6,37.162705,-100.15337,
+8,fraud_Corwin-Collins,4,38.948089,-78.540296,22644.0
+9,fraud_Herzog Ltd,5,40.351813,-79.958146,15236.0
+10,"fraud_Schoen, Kuphal and Nitzsche",2,37.179198,-87.485381,42442.0
+11,fraud_Rutherford-Mertz,2,40.275891,-96.011548,68348.0
+12,fraud_Kerluke-Abshire,7,40.103866,-78.624459,15554.0
+13,fraud_Lockman Ltd,2,27.630593,-82.308891,33598.0
+14,fraud_Kiehn Inc,2,41.65752,-122.230347,
+15,fraud_Beier-Hyatt,8,32.863258,-106.520205,
+16,fraud_Schmidt and Sons,7,41.831174,-74.335559,12446.0
+17,fraud_Lebsack and Sons,1,36.384092,-99.048472,73852.0
+18,fraud_Mayert Group,8,38.674491,-88.305767,62824.0
+19,"fraud_Konopelski, Schneider and Hartmann",9,41.430274,-79.492553,16364.0
+20,"fraud_Schultz, Simonis and Little",2,40.079588,-74.84808699999999,8016.0
+21,fraud_Bauch-Raynor,2,42.26876,-71.217297,2492.0
+22,fraud_Harris Inc,4,40.18893,-91.955115,63446.0
+23,fraud_Kling-Grant,6,40.021888,-74.228188,8755.0
+24,fraud_Pacocha-Bauch,8,31.62635,-98.610225,76870.0
+25,fraud_Lesch Ltd,8,43.375041,-89.055065,53932.0
+26,fraud_Kunde-Sanford,1,36.74987,-78.67787,23964.0
+27,fraud_Deckow-O'Conner,2,42.360426,-83.552316,48168.0
+28,fraud_Bruen-Yost,5,43.753735,-111.454923,83436.0
+29,fraud_Kunze Inc,2,19.560013,-156.045889,96740.0
+30,"fraud_Nitzsche, Kessler and Wolff",8,42.47559,-101.265846,
+31,"fraud_Kihn, Abernathy and Douglas",7,44.278191,-121.815161,
+32,fraud_Torphy-Goyette,8,46.412038,-88.516663,49919.0
+33,fraud_Balistreri-Nader,5,29.737426,-90.853194,70395.0
+34,"fraud_Bahringer, Schoen and Corkery",8,38.880898,-76.44111600000001,21037.0
+35,fraud_Hudson-Ratke,2,36.823545,-83.90104000000001,40906.0
+36,fraud_Heidenreich PLC,2,40.202538,-73.859212,7720.0
+37,fraud_Halvorson Group,5,31.939812,-90.726209,39086.0
+38,fraud_Harber Inc,4,40.586238,-75.802249,19529.0
+39,"fraud_Mosciski, Gislason and Mertz",2,40.011959,-72.594808,
+40,"fraud_Christiansen, Goyette and Schamberger",4,40.332519,-99.062962,68947.0
+41,fraud_Howe Ltd,5,42.041783,-73.076424,6021.0
+42,fraud_Ledner-Pfannerstill,4,39.807313,-109.348294,
+43,fraud_Koepp-Witting,2,42.236269,-88.397336,60014.0
+44,fraud_Doyle Ltd,2,27.588953000000004,-99.816911,
+45,"fraud_Schaefer, Maggio and Daugherty",4,35.255978000000006,-86.041872,37324.0
+46,fraud_Stracke-Lemke,2,48.682111,-122.719904,98262.0
+47,"fraud_Mosciski, Ziemann and Farrell",7,39.681736,-88.323862,61910.0
+48,fraud_Cartwright-Harris,2,33.595647,-90.234118,38930.0
+49,fraud_Pacocha-O'Reilly,2,35.034285,-92.34301,72032.0
+50,fraud_Pfeffer LLC,6,34.852665,-98.90267,73564.0
+51,fraud_Huels-Hahn,4,45.323099,-85.11654300000001,49720.0
+52,fraud_Volkman PLC,9,32.282224,-97.46183,76033.0
+53,fraud_Kiehn-Emmerich,2,31.414174,-87.138632,36475.0
+54,fraud_Kemmer-Buckridge,5,43.1763,-77.901777,14420.0
+55,fraud_Cummerata-Jones,4,46.043252,-117.962133,
+56,"fraud_Goldner, Kovacek and Abbott",2,39.240962,-76.71273199999999,21227.0
+57,fraud_Spinka-Welch,6,41.776673,-93.350689,50168.0
+58,fraud_Huel-Langworth,1,38.419431,-109.380252,
+59,fraud_Macejkovic-Lesch,8,32.023302,-82.58345,30473.0
+60,fraud_Morar Inc,6,38.817293,-77.83346800000001,20115.0
+61,"fraud_Eichmann, Bogan and Rodriguez",4,43.585423,-70.449359,4072.0
+62,"fraud_Huel, Hammes and Witting",2,49.080153,-113.53238,
+63,"fraud_Ferry, Lynch and Kautzer",1,37.548452000000005,-121.536454,95377.0
+64,fraud_Heathcote LLC,7,46.796891,-86.331091,
+65,"fraud_Little, Gutmann and Lynch",7,40.992141,-98.831582,68869.0
+66,fraud_Jaskolski-Dibbert,6,39.222743,-78.839099,26852.0
+67,fraud_Hackett-Lueilwitz,2,25.801181,-82.351291,
+68,fraud_Cummings LLC,4,36.144895,-92.188172,72519.0
+69,"fraud_Swaniawski, Lowe and Robel",8,35.268124,-112.682895,
+70,"fraud_Osinski, Ledner and Leuschke",2,38.860981,-86.77339599999999,47453.0
+71,"fraud_Reichert, Huels and Hoppe",7,42.868965,-108.50335,82510.0
+72,fraud_Ankunding LLC,7,37.84676,-79.262334,24435.0
+73,fraud_Pfeffer and Sons,8,31.973466,-84.244731,31787.0
+74,"fraud_Greenholt, Jacobi and Gleason",4,42.889256,-71.88810699999999,3458.0
+75,"fraud_Connelly, Reichert and Fritsch",4,39.308098,-81.698525,45742.0
+76,fraud_Torp-Labadie,4,45.084808,-73.626071,12958.0
+77,fraud_Wolf Inc,2,40.773306,-92.821257,52544.0
+78,fraud_VonRueden Group,6,44.630758,-87.12389399999999,
+79,fraud_Vandervort-Funk,2,38.482541,-108.853856,
+80,fraud_Bernhard Inc,4,40.068764,-79.826882,15438.0
+81,"fraud_Morissette, Weber and Wiegand",6,41.8136,-81.23076999999999,44081.0
+82,fraud_Brekke and Sons,4,33.828472999999995,-81.642924,29129.0
+83,fraud_Mraz-Herzog,4,36.962777,-77.640054,23840.0
+84,fraud_Padberg-Welch,2,38.394608000000005,-76.437916,20657.0
+85,fraud_Kutch-Hegmann,6,38.69322,-115.87599,
+86,fraud_Corwin-Gorczany,1,41.907592,-95.809232,51558.0
+87,fraud_Huels-Nolan,4,41.027284,-89.416172,61540.0
+88,fraud_DuBuque LLC,2,27.610009,-79.49811,
+89,fraud_Schmeler Inc,5,41.419964,-79.957263,16362.0
+90,"fraud_Schaefer, McGlynn and Bosco",4,42.508248,-105.34481,
+91,fraud_Williamson LLC,5,40.712685,-72.124522,
+92,fraud_Pouros-Conroy,8,41.395142,-74.887524,12770.0
+93,fraud_Erdman-Kertzmann,4,46.60956,-96.630804,56594.0
+94,fraud_Kuhn LLC,1,39.926556,-73.774415,
+95,fraud_Fisher-Schowalter,7,36.819789,-119.670559,93611.0
+96,fraud_Medhurst PLC,7,42.988724,-123.904978,97458.0
+97,fraud_Kerluke Inc,1,41.14486,-99.38762,68855.0
+98,fraud_Stark-Batz,3,31.798954,-86.213243,36049.0
+99,"fraud_Gottlieb, Considine and Schultz",7,41.948237,-71.668538,2830.0
+100,"fraud_Adams, Kovacek and Kuhlman",6,38.336898,-79.568795,24458.0
+101,fraud_Grimes LLC,3,37.426207,-76.502881,23061.0
+102,fraud_Rodriguez Group,4,36.694647,-97.517515,74643.0
+103,fraud_Wuckert-Walter,6,39.880088,-94.193907,64497.0
+104,fraud_Weber and Sons,9,30.906565000000004,-90.486622,70444.0
+105,"fraud_Herman, Treutel and Dickens",1,40.7433,-90.088705,61572.0
+106,fraud_Rau and Sons,2,43.994486,-75.60383900000001,13619.0
+107,fraud_Koss and Sons,4,44.015435,-76.027125,13634.0
+108,fraud_Smitham-Schiller,6,41.669034,-73.27160500000001,6758.0
+109,fraud_Hills-Olson,6,38.984909,-90.842219,63362.0
+110,fraud_Durgan-Auer,1,40.110823,-124.429537,
+111,fraud_McDermott-Rice,5,44.070021,-73.68845400000001,12998.0
+112,"fraud_Raynor, Reinger and Hagenes",4,36.265214,-81.891953,28679.0
+113,fraud_Powlowski-Weimann,9,38.301944,-76.507232,20619.0
+114,"fraud_Langosh, Wintheiser and Hyatt",9,42.699989,-93.883915,50542.0
+115,"fraud_Baumbach, Hodkiewicz and Walsh",8,39.936995,-94.604311,64494.0
+116,fraud_Rempel Inc,7,34.3281,-81.727628,29355.0
+117,fraud_Bins-Rice,4,35.906566,-82.096532,28777.0
+118,fraud_Emard Inc,4,37.814677,-101.502441,67857.0
+119,fraud_Kutch and Sons,2,31.167024,-80.801294,
+120,fraud_Fisher Inc,7,32.715671,-100.074321,79534.0
+121,"fraud_Olson, Becker and Koch",4,43.392165000000006,-75.505542,13303.0
+122,fraud_Friesen-D'Amore,4,33.816815000000005,-86.429446,35146.0
+123,"fraud_Reilly, Heaney and Cole",4,42.206551,-81.59184499999999,
+124,fraud_Boyer PLC,5,42.348367,-72.68946700000001,1053.0
+125,fraud_Luettgen PLC,4,38.863724,-77.122748,22203.0
+126,fraud_Cassin-Harvey,6,39.220115,-74.711564,8230.0
+127,fraud_Funk Group,6,39.575819,-90.149623,62668.0
+128,fraud_Goodwin-Nitzsche,2,31.021036,-92.90296,70656.0
+129,"fraud_Parisian, Schiller and Altenwerth",1,40.868184,-76.283066,17967.0
+130,fraud_Metz-Boehm,8,42.817788,-77.47053199999999,14469.0
+131,"fraud_Monahan, Bogisich and Ledner",5,40.711398,-73.523504,11756.0
+132,fraud_Koelpin and Sons,1,33.663412,-89.613292,38925.0
+133,fraud_Kuhic LLC,7,42.658626,-94.486224,50541.0
+134,fraud_Koepp-Parker,2,38.197108,-77.644807,22551.0
+135,"fraud_Stehr, Jewess and Schimmel",1,32.826449,-82.00013100000001,30442.0
+136,"fraud_Quitzon, Green and Bashirian",8,40.148746,-74.840312,19055.0
+137,"fraud_Nicolas, Hills and McGlynn",3,42.446162,-78.048599,14735.0
+138,fraud_Leannon-Ward,9,31.648009,-80.60297299999999,
+139,fraud_Friesen-Stamm,4,34.798873,-89.494405,38635.0
+140,fraud_Botsford Ltd,8,33.193514,-93.437407,71861.0
+141,fraud_Bradtke PLC,2,40.247129,-91.699005,63473.0
+142,"fraud_Zieme, Bode and Dooley",4,39.662816,-93.712244,64656.0
+143,fraud_Hills-Witting,7,44.710102,-117.229968,97870.0
+144,fraud_Brown-Greenholt,3,41.788775,-74.471154,12740.0
+145,"fraud_Bernhard, Grant and Langworth",8,40.790587,-99.011834,68847.0
+146,"fraud_Wiza, Schaden and Stark",5,38.78936,-95.405907,66047.0
+147,fraud_Buckridge PLC,5,34.099428,-81.916669,29037.0
+148,fraud_Kilback LLC,2,42.465418,-95.211895,50535.0
+149,fraud_Spinka Inc,6,44.036016,-86.754147,
+150,"fraud_Kerluke, Kertzmann and Wiza",1,34.108257,-117.549012,91730.0
+151,"fraud_Ferry, Reichel and DuBuque",6,33.791152000000004,-80.788125,29052.0
+152,fraud_Price Inc,7,29.471413,-91.074361,
+153,"fraud_Johnston, Nikolaus and Maggio",6,39.949197,-119.792299,89510.0
+154,fraud_Berge LLC,4,36.502461,-92.210445,72537.0
+155,fraud_Conroy-Cruickshank,4,41.746779,-84.601964,43554.0
+156,fraud_Abshire PLC,3,41.388862,-91.844621,52359.0
+157,fraud_Gleason-Macejkovic,7,41.767862,-69.37527,
+158,fraud_McGlynn-Jaskolski,5,34.370236,-118.195791,91042.0
+159,fraud_Bartoletti-Wunsch,4,41.854275,-83.22900200000001,48161.0
+160,fraud_Cole PLC,2,40.513402,-89.784304,61533.0
+161,"fraud_Lehner, Reichert and Mills",5,35.891929,-96.473787,74010.0
+162,fraud_McCullough LLC,5,45.384511,-109.50803700000002,59071.0
+163,fraud_Schmitt Ltd,1,38.882246,-122.050228,95606.0
+164,fraud_Pouros-Haag,8,43.792501,-82.722889,48470.0
+165,fraud_Strosin-Cruickshank,2,49.17672,-108.757243,
+166,"fraud_Weimann, Kuhic and Beahan",8,41.111748,-88.524023,60420.0
+167,fraud_Donnelly PLC,1,36.518512,-91.363405,65778.0
+168,"fraud_Lockman, West and Runte",2,38.293496000000005,-77.544774,22407.0
+169,fraud_Torp-Lemke,5,44.727585,-123.282623,97361.0
+170,fraud_Kris-Weimann,1,39.913117,-73.587618,
+171,"fraud_Rodriguez, Yost and Jenkins",1,35.740311,-85.744277,37110.0
+172,fraud_Wiegand-Lowe,6,32.3623,-97.137624,76084.0
+173,fraud_Auer-Mosciski,2,36.566535,-90.626008,63953.0
+174,"fraud_Okuneva, Schneider and Rau",8,39.00874,-85.803715,47274.0
+175,fraud_Kassulke PLC,7,39.940564,-103.528231,80757.0
+176,fraud_Dach-Nader,1,49.073601,-122.924793,98281.0
+177,fraud_Cummings Group,6,40.222565,-75.817419,19508.0
+178,"fraud_Reichert, Shanahan and Hayes",7,44.750465000000005,-84.026088,48621.0
+179,"fraud_Tromp, Kerluke and Glover",6,40.891784,-79.319239,16253.0
+180,"fraud_Bins, Balistreri and Beatty",8,39.299707,-95.975808,66422.0
+181,fraud_Trantow PLC,6,42.328516,-88.660452,61012.0
+182,fraud_Miller-Hauck,2,49.221275,-123.32192,
+183,fraud_Kuvalis Ltd,4,41.856329,-78.14814100000001,16746.0
+184,fraud_Dickinson Ltd,5,39.485164000000005,-75.526021,8079.0
+185,"fraud_Stanton, Jakubowski and Baumbach",7,39.064097,-79.342751,26260.0
+186,"fraud_Rohan, White and Aufderhar",1,41.013729,-122.403496,96017.0
+187,"fraud_Cormier, Stracke and Thiel",3,20.995398,-155.36936200000002,
+188,"fraud_Tillman, Fritsch and Schmitt",1,39.918242,-80.170451,15370.0
+189,fraud_Christiansen-Gusikowski,5,41.430203000000006,-74.52109399999999,10963.0
+190,"fraud_Jenkins, Hauck and Friesen",4,40.459474,-124.214281,95536.0
+191,fraud_Reichel Inc,3,33.630045,-81.492964,29805.0
+192,fraud_Prohaska-Murray,4,41.682353000000006,-92.894826,50135.0
+193,"fraud_Parker, Nolan and Trantow",3,44.676757,-70.115624,4938.0
+194,fraud_Volkman Ltd,1,32.823643,-85.16965,36854.0
+195,"fraud_Streich, Hansen and Veum",4,40.134218,-88.07560500000001,61873.0
+196,fraud_Kutch LLC,4,40.494014,-78.398475,16602.0
+197,fraud_Barton Inc,2,41.209485,-81.837882,44212.0
+198,fraud_Dooley-Thompson,1,32.878269,-97.719086,76085.0
+199,fraud_Flatley Group,5,39.748546000000005,-79.094688,15558.0
+200,fraud_Turcotte-Halvorson,5,45.290031,-85.436689,49720.0
+201,fraud_Lynch Ltd,8,40.738949,-91.966795,52565.0
+202,"fraud_Romaguera, Cruickshank and Greenholt",7,42.412743,-121.617857,97625.0
+203,fraud_Gutmann Ltd,6,39.368373,-82.185404,45780.0
+204,fraud_Sporer Inc,4,33.347773,-93.975115,71854.0
+205,fraud_Runolfsson and Sons,6,31.7063,-97.507141,76689.0
+206,fraud_Block Group,5,40.47841,-72.974367,
+207,fraud_Bahringer-Larson,6,35.276815,-82.047186,28756.0
+208,"fraud_Rowe, Batz and Goodwin",2,40.363656,-75.732708,19547.0
+209,fraud_Schmitt Inc,4,40.965574,-78.375316,16878.0
+210,fraud_Maggio-Fahey,5,39.886736,-84.086151,45424.0
+211,"fraud_Haley, Jewess and Bechtelar",8,39.052625,-92.428684,65256.0
+212,"fraud_Ruecker, Beer and Collier",7,40.55495,-89.50587,61535.0
+213,"fraud_Robel, Cummerata and Prosacco",4,41.114699,-89.132387,61336.0
+214,fraud_Jast-McDermott,8,37.289605,-83.179743,41719.0
+215,"fraud_Bernier, Volkman and Hoeger",1,26.763749,-99.838161,
+216,fraud_Heaney-Marquardt,3,39.366148,-76.29457,21010.0
+217,fraud_Hudson-Grady,8,44.192713,-69.367216,4348.0
+218,"fraud_Towne, Walker and Borer",6,41.364657,-81.988798,44039.0
+219,fraud_Terry-Huel,7,39.790646,-95.043146,66087.0
+220,fraud_Kihn-Fritsch,9,41.101428000000006,-73.549658,6905.0
+221,fraud_Eichmann-Russel,5,38.370985,-121.358847,95757.0
+222,fraud_Miller-Harris,1,40.788738,-85.503422,46750.0
+223,fraud_Schumm PLC,7,45.827231,-112.895243,59750.0
+224,"fraud_Greenfelder, Bartoletti and Davis",1,45.004997,-95.344122,56222.0
+225,"fraud_Kovacek, Dibbert and Ondricka",2,31.286058,-89.83630699999999,39429.0
+226,fraud_Hermann-Gaylord,5,37.867296,-81.335353,25044.0
+227,fraud_Bailey-Morar,2,39.229442,-120.493701,
+228,fraud_McDermott-Weimann,2,34.077371,-91.79756,71644.0
+229,fraud_Welch Inc,1,40.020043,-89.693412,62613.0
+230,fraud_Auer-West,7,37.622362,-82.676007,41642.0
+231,"fraud_Boehm, Predovic and Reinger",5,43.280848,-94.340312,50559.0
+232,fraud_Dibbert and Sons,3,35.262871000000004,-80.21576999999999,28128.0
+233,"fraud_Lind, Huel and McClure",4,28.740953,-99.391846,
+234,"fraud_Casper, Hand and Zulauf",2,33.731713,-119.507821,
+235,fraud_McCullough Group,6,32.701522,-95.152907,75765.0
+236,"fraud_Streich, Dietrich and Barton",7,39.646451,-80.502965,26581.0
+237,fraud_O'Keefe-Hudson,2,33.133990999999995,-111.460639,85243.0
+238,fraud_Pagac LLC,8,39.483001,-80.898262,26149.0
+239,"fraud_Bernier, Streich and Jewess",6,26.568321,-99.814054,
+240,"fraud_Greenholt, O'Hara and Balistreri",7,31.379123,-97.555052,76561.0
+241,fraud_Dickinson-Rempel,5,39.04432,-94.698256,66106.0
+242,fraud_Dare-Marvin,3,35.392677,-89.808577,38058.0
+243,fraud_Spencer PLC,3,40.68934,-75.037038,8802.0
+244,fraud_Stamm-Rodriguez,5,41.345986,-87.10194200000001,46347.0
+245,"fraud_Langworth, Boehm and Gulgowski",7,40.966241,-78.242112,16821.0
+246,"fraud_Larkin, Stracke and Greenfelder",3,41.086821,-88.48182299999999,60420.0
+247,"fraud_Yost, Block and Koepp",5,33.620816,-91.970425,71675.0
+248,"fraud_Douglas, Schneider and Turner",8,40.862123,-80.581478,44445.0
+249,fraud_Kuphal-Predovic,1,38.918827,-100.452065,67736.0
+250,fraud_Parisian and Sons,4,34.097789,-89.991146,38927.0
+251,fraud_Flatley-Durgan,1,40.461367,-73.884005,11697.0
+252,fraud_Gislason Group,5,44.679745,-70.15094,4938.0
+253,fraud_Bednar Group,1,36.417694,-97.376429,74630.0
+254,fraud_Heller-Langosh,4,19.209212,-155.16214,
+255,fraud_Zboncak Ltd,9,31.377997,-90.675927,39664.0
+256,fraud_Gerlach Inc,7,38.605741,-99.447528,67556.0
+257,fraud_Wilkinson Ltd,3,26.599772,-80.87758000000001,
+258,"fraud_Moen, Reinger and Murphy",2,37.878619,-89.903994,63673.0
+259,"fraud_Kerluke, Considine and Macejkovic",1,35.07159,-99.499248,73673.0
+260,fraud_Upton PLC,3,39.526893,-76.609434,21131.0
+261,fraud_Bogisich Inc,2,37.446584,-88.22013299999999,62931.0
+262,fraud_Marks Inc,4,31.153295,-104.021759,
+263,fraud_Murray-Smitham,2,33.936761,-81.678842,29166.0
+264,fraud_Frami Group,3,29.748642,-90.602809,70394.0
+265,fraud_Ortiz Group,6,33.44865,-82.696711,30821.0
+266,fraud_Goldner-Lemke,3,39.21153,-77.322292,20841.0
+267,fraud_Hickle Group,8,43.234305,-90.085867,53577.0
+268,fraud_Conroy Ltd,8,30.868471000000003,-92.058125,71356.0
+269,"fraud_Schumm, Bauch and Ondricka",2,35.919237,-85.432351,38583.0
+270,fraud_McGlynn-Heathcote,1,31.608415,-83.145823,31774.0
+271,fraud_Herman Inc,5,43.563076,-101.937733,
+272,fraud_Gutmann-Upton,5,43.55786,-74.42868299999999,12108.0
+273,fraud_Volkman-Predovic,7,33.676231,-112.389594,85375.0
+274,"fraud_Wintheiser, Dietrich and Schimmel",5,41.059801,-86.726607,46996.0
+275,"fraud_Raynor, Feest and Miller",4,43.124525,-71.545704,3304.0
+276,fraud_Bogisich-Homenick,1,35.036513,-87.00354,38477.0
+277,fraud_Jast and Sons,9,33.917815999999995,-117.821826,92823.0
+278,"fraud_Baumbach, Strosin and Nicolas",8,32.473304,-84.563429,31801.0
+279,"fraud_Towne, Greenholt and Koepp",7,33.149021000000005,-80.81120899999999,29481.0
+280,fraud_Schamberger-O'Keefe,2,39.511175,-94.760973,64439.0
+281,fraud_Nienow PLC,3,34.118755,-83.79910500000001,30517.0
+282,fraud_Emmerich-Luettgen,6,42.035316,-80.08225999999999,16509.0
+283,fraud_Mante Group,1,46.345956,-84.000883,
+284,"fraud_Baumbach, Feeney and Morar",7,37.897032,-97.804613,67543.0
+285,fraud_Thiel PLC,5,43.591414,-78.30121700000001,
+286,fraud_Mohr Inc,8,40.595003000000005,-77.49443199999999,17044.0
+287,"fraud_Hagenes, Kohler and Hoppe",9,39.361539,-76.276545,21010.0
+288,fraud_Block-Parisian,1,30.784155,-83.200177,31606.0
+289,fraud_Dooley Inc,8,32.692762,-102.823356,
+290,fraud_Bashirian Group,7,40.476247,-90.819337,62326.0
+291,"fraud_Cremin, Hamill and Reichel",5,44.332865000000005,-89.849047,54469.0
+292,fraud_Sawayn PLC,8,37.297006,-98.889052,67143.0
+293,fraud_Jewess LLC,8,44.6475,-73.332048,5486.0
+294,fraud_Roberts-Beahan,5,30.928091,-98.939276,76869.0
+295,fraud_Brown PLC,1,27.409065,-81.897281,33865.0
+296,"fraud_Tillman, Dickinson and Labadie",4,42.182148,-99.876819,
+297,"fraud_Reichert, Rowe and Mraz",7,33.482113,-91.639878,
+298,fraud_Kilback Group,9,38.342331,-77.07664399999999,22448.0
+299,fraud_Spencer-Runolfsson,5,49.36542,-121.909876,
+300,"fraud_Labadie, Treutel and Bode",7,32.844452000000004,-117.698985,
+301,fraud_Dach-Borer,6,33.303045000000004,-111.642781,85212.0
+302,"fraud_Johnson, Runolfsdottir and Mayer",1,35.986761,-93.552055,72742.0
+303,fraud_Smitham-Boehm,6,41.811527000000005,-77.34688100000001,16901.0
+304,"fraud_Moore, Dibbert and Koepp",1,38.98821,-80.19840400000001,26201.0
+305,fraud_Hamill-Daugherty,1,42.789916,-83.514928,48350.0
+306,"fraud_Watsica, Haag and Considine",8,39.190083,-89.299242,62094.0
+307,fraud_Smith-Stokes,5,40.436371,-99.610796,68927.0
+308,"fraud_Kuhic, Bins and Pfeffer",7,40.465072,-79.60525600000001,15668.0
+309,fraud_Nader-Heller,1,34.389461,-111.42367,85544.0
+310,fraud_Kozey-Boehm,7,39.165476,-84.824754,45052.0
+311,fraud_Stiedemann Inc,5,42.970071,-87.234999,
+312,"fraud_Lehner, Mosciski and King",1,32.446784,-97.071994,76084.0
+313,fraud_Reynolds-Schinner,5,32.316816,-91.195977,71282.0
+314,"fraud_Koss, McLaughlin and Mayer",9,31.787739,-83.41180899999999,31783.0
+315,"fraud_Terry, Johns and Bins",5,35.72137,-88.187926,38363.0
+316,fraud_Kemmer-Reinger,6,37.174813,-87.95079799999999,42411.0
+317,fraud_Larson-Moen,3,35.359894,-97.202209,74857.0
+318,fraud_Kuhic Inc,2,34.42159,-86.180934,35951.0
+319,fraud_Kris-Padberg,8,41.658409000000006,-77.818566,
+320,"fraud_Schmeler, Bashirian and Price",7,36.930573,-89.496439,63823.0
+321,fraud_Klocko LLC,1,37.437406,-111.695693,
+322,"fraud_Schaefer, Fay and Hilll",3,44.685732,-92.872182,55033.0
+323,fraud_Kling Inc,4,40.417799,-120.283548,96117.0
+324,fraud_Turner and Sons,8,39.449815,-95.156263,66016.0
+325,fraud_Mohr-Bayer,7,49.342568,-103.496454,
+326,fraud_Wiza LLC,5,40.728845,-74.68005600000001,7934.0
+327,fraud_Skiles-Ankunding,6,34.68178,-92.171994,72142.0
+328,fraud_Jaskolski-Vandervort,1,40.542864,-96.515629,68358.0
+329,fraud_Kerluke PLC,1,38.208416,-109.274184,
+330,fraud_Ernser-Lynch,9,36.950587,-83.874577,40943.0
+331,"fraud_Zboncak, Rowe and Murazik",7,35.261173,-111.444946,86004.0
+332,fraud_Stoltenberg-Beatty,8,41.794065,-85.139308,46776.0
+333,fraud_Kuphal-Bartoletti,1,39.451595000000005,-99.296808,67669.0
+334,fraud_Rempel PLC,6,38.465027,-78.069149,22735.0
+335,fraud_Denesik and Sons,8,41.826473,-81.034775,44057.0
+336,fraud_Goyette Inc,7,43.956833,-76.052054,13634.0
+337,fraud_Dicki Ltd,6,37.359104,-101.145384,67952.0
+338,"fraud_Stokes, Christiansen and Sipes",6,35.063619,-106.2421,87015.0
+339,fraud_Hermann and Sons,8,43.492434,-77.878316,
+340,fraud_Gibson-Deckow,3,31.711289,-97.615396,76634.0
+341,fraud_Douglas-White,3,32.97625,-116.450577,92036.0
+342,fraud_Murray Ltd,6,43.855651,-70.078073,4032.0
+343,fraud_McKenzie-Huels,9,40.867327,-73.89787199999999,10468.0
+344,fraud_Runte-Mohr,9,31.549076,-98.988616,76827.0
+345,"fraud_Roob, Conn and Tremblay",8,31.660885,-84.87647700000001,39836.0
+346,fraud_Boyer-Reichert,7,38.34956,-100.086745,67518.0
+347,fraud_Shanahan-Lehner,10,26.389956,-81.15876300000001,
+348,fraud_Greenholt Ltd,11,38.417406,-106.386284,
+349,fraud_Kulas Group,11,47.659177,-112.319606,
+350,"fraud_Dare, Fritsch and Zboncak",11,39.838766,-106.332496,
+351,fraud_Waters-Cruickshank,11,45.778647,-95.10005,56360.0
+352,"fraud_Kunze, Larkin and Mayert",12,42.339536,-74.08041700000001,12405.0
+353,fraud_Bednar Inc,12,42.323308,-70.677701,2025.0
+354,fraud_Schimmel-Olson,13,39.206677,-93.033773,65349.0
+355,"fraud_Lubowitz, Terry and Stracke",10,40.133124,-92.654578,63501.0
+356,fraud_Schoen-Quigley,13,42.611373,-96.261417,51024.0
+357,fraud_Kihn-Schuster,9,39.317622,-76.292905,21010.0
+358,fraud_Padberg-Rogahn,3,35.409854,-87.205471,38483.0
+359,fraud_Lynch-Mohr,12,41.982312,-73.93881,12507.0
+360,fraud_Hilpert-Conroy,13,40.858986,-92.209069,52588.0
+361,fraud_Jacobi Inc,11,39.105052,-105.656623,80449.0
+362,"fraud_Berge, Kautzer and Harris",10,27.504831,-81.12572,
+363,fraud_Hammes-Beatty,13,44.398931,-122.136405,
+364,fraud_Gulgowski LLC,14,35.255428,-92.675387,72156.0
+365,"fraud_Schuppe, Nolan and Hoeger",8,36.874665,-79.93663199999999,24102.0
+366,fraud_Pollich LLC,14,38.412664,-79.018129,22812.0
+367,fraud_Bernier and Sons,13,36.455184,-92.150945,72537.0
+368,fraud_Wilkinson PLC,13,39.848967,-77.024924,17350.0
+369,fraud_Kling-Ernser,3,36.316531,-85.956486,37151.0
+370,"fraud_O'Connell, Botsford and Hand",14,44.513683,-74.923788,13625.0
+371,fraud_Little-Gleichner,12,32.389161,-96.994764,75167.0
+372,fraud_Champlin and Sons,14,32.556114,-96.608229,75125.0
+373,fraud_Hoppe-Parisian,13,38.789938,-89.875102,62294.0
+374,fraud_Schuppe LLC,3,41.078812,-78.670385,15856.0
+375,fraud_Emmerich-Rau,10,40.169799,-74.569352,8501.0
+376,fraud_Beier LLC,3,34.446626,-90.840089,72366.0
+377,fraud_Champlin-Casper,14,36.32163,-77.667004,27839.0
+378,fraud_Gerhold LLC,14,39.529375,-77.560792,21773.0
+379,fraud_Renner Ltd,14,34.662994,-81.083259,29729.0
+380,fraud_Gaylord-Powlowski,14,43.016205,-90.796644,53816.0
+381,"fraud_Prosacco, Kreiger and Kovacek",14,41.918079,-123.524131,96039.0
+382,fraud_Eichmann-Kilback,14,33.908128999999995,-89.693832,38922.0
+383,fraud_O'Hara-Wilderman,9,44.21523,-88.792643,54940.0
+384,fraud_Terry Ltd,14,28.095758,-82.20629699999999,33565.0
+385,fraud_Beier and Sons,14,32.744104,-87.025559,36790.0
+386,fraud_O'Keefe-Wisoky,9,29.273326,-104.007592,
+387,fraud_Simonis-Prohaska,5,39.293971,-77.442266,21710.0
+388,fraud_Breitenberg-Hermiston,13,43.119601,-78.67971800000001,14094.0
+389,fraud_Brown Inc,13,32.040588,-96.155962,75144.0
+390,fraud_Fahey Inc,13,35.165667,-91.757016,72068.0
+391,"fraud_Boehm, Block and Jakubowski",5,43.355724,-70.333731,4046.0
+392,"fraud_Mante, Luettgen and Hackett",11,43.866236,-108.18443700000002,82430.0
+393,fraud_Thompson-Gleason,11,39.39999,-114.165521,
+394,"fraud_Turcotte, Batz and Buckridge",11,36.352098,-82.61206700000001,37656.0
+395,"fraud_Goyette, Howell and Collier",8,41.64788,-124.744747,
+396,"fraud_Jones, Sawayn and Romaguera",1,43.974711,-109.741904,
+397,fraud_Medhurst Inc,14,36.844537,-85.930413,42131.0
+398,fraud_Bode-Schuster,13,43.729748,-120.13096000000002,
+399,fraud_Connelly-Carter,14,39.397946000000005,-86.69665400000001,47433.0
+400,fraud_Gottlieb-Hansen,10,36.849101,-104.807088,
+401,"fraud_Schroeder, Wolff and Hermiston",12,32.081388000000004,-80.10258499999999,
+402,"fraud_Hettinger, McCullough and Fay",14,40.84301,-74.559784,7869.0
+403,"fraud_Pouros, Walker and Spencer",13,37.71969,-83.814198,40472.0
+404,fraud_Kub PLC,10,33.58785,-111.796899,85259.0
+405,fraud_Watsica LLC,10,43.96206,-108.042065,82401.0
+406,fraud_Stiedemann Ltd,9,42.038172,-89.81033199999999,61014.0
+407,"fraud_Hauck, Dietrich and Funk",13,43.329385,-111.772465,83406.0
+408,fraud_Labadie LLC,10,45.544687,-92.024643,54829.0
+409,fraud_Friesen Inc,8,41.379035,-73.772712,10541.0
+410,"fraud_Crist, Jakubowski and Littel",14,38.442726,-94.42199,64725.0
+411,"fraud_Hodkiewicz, Prohaska and Paucek",12,40.108156,-84.400604,45308.0
+412,"fraud_McDermott, Osinski and Morar",14,32.02622,-96.179015,75144.0
+413,fraud_Fritsch and Sons,11,32.749836,-87.656536,36776.0
+414,"fraud_Swaniawski, Nitzsche and Welch",11,45.105736,-87.08646800000001,54202.0
+415,"fraud_Windler, Goodwin and Kovacek",14,37.674054,-75.57240300000001,23301.0
+416,"fraud_Yost, Schamberger and Windler",13,48.833502,-112.959004,
+417,"fraud_Metz, Russel and Metz",13,44.84209,-122.089726,
+418,fraud_Erdman-Durgan,11,42.007058,-78.408407,16731.0
+419,"fraud_Bahringer, Bergnaum and Quitzon",14,43.617342,-122.715918,97427.0
+420,fraud_Veum-Koelpin,12,45.996627,-111.048677,
+421,"fraud_Becker, Harris and Harvey",10,33.282548,-84.764595,30259.0
+422,fraud_Monahan-Morar,10,41.369253,-81.696043,44134.0
+423,fraud_Johns Inc,3,33.926347,-82.275657,29835.0
+424,fraud_Mosciski Group,12,38.174527000000005,-81.005397,25938.0
+425,fraud_Abbott-Steuber,10,43.995784,-71.274235,3812.0
+426,fraud_Schaefer Ltd,13,36.136269,-92.393578,72658.0
+427,fraud_Dibbert-Green,3,36.130873,-111.009704,
+428,fraud_Weimann-Lockman,13,40.121986,-77.84758000000001,17239.0
+429,fraud_Kub-Heaney,11,40.759427,-93.539051,50103.0
+430,fraud_Zulauf LLC,10,25.478181,-81.729029,
+431,fraud_Ratke and Sons,11,34.927867,-79.916499,28091.0
+432,fraud_Jakubowski Inc,14,39.704205,-124.787554,
+433,fraud_Beer-Jast,13,42.970204,-79.093014,14072.0
+434,fraud_Kautzer and Sons,10,43.749837,-116.684895,83607.0
+435,fraud_Feil-Morar,11,45.659517,-120.745042,97065.0
+436,fraud_Johnston-Casper,12,40.977943,-96.135389,68037.0
+437,"fraud_Medhurst, Labadie and Gottlieb",12,38.887597,-84.95366899999999,47020.0
+438,"fraud_Lesch, D'Amore and Brown",9,33.444533,-96.249599,75452.0
+439,fraud_Botsford PLC,14,48.328348,-90.812565,
+440,fraud_Bins-Howell,10,40.244496000000005,-105.173078,80503.0
+441,fraud_Kihn Inc,8,28.339809,-95.370525,
+442,"fraud_Hartmann, Rowe and Hermann",12,38.06693,-79.066949,24477.0
+443,fraud_Towne LLC,5,39.068685,-93.258024,65340.0
+444,fraud_Lynch-Wisozk,14,34.306881,-91.068144,72140.0
+445,fraud_Kutch-Ferry,14,33.667667,-88.063395,35592.0
+446,fraud_Goyette-Gerhold,13,43.884203,-109.383737,
+447,"fraud_Bradtke, Torp and Bahringer",10,40.015831,-104.719839,80603.0
+448,fraud_Homenick LLC,10,37.386862,-96.52966,67346.0
+449,"fraud_Zemlak, Tillman and Cremin",10,42.175079,-95.402688,51461.0
+450,"fraud_Schneider, Hayes and Nikolaus",9,38.449546000000005,-94.850693,66026.0
+451,"fraud_Schumm, McLaughlin and Carter",9,40.536917,-79.96070999999999,15116.0
+452,fraud_Nader-Maggio,10,33.739267,-93.105373,71722.0
+453,"fraud_Haley, Batz and Auer",11,31.795228,-96.2427,75859.0
+454,fraud_Yost-Rogahn,10,45.811261,-123.080707,97056.0
+455,"fraud_Schoen, Nienow and Bauch",10,41.462107,-92.720582,50207.0
+456,"fraud_Ledner, Hartmann and Feest",11,39.782236,-104.874005,80238.0
+457,fraud_Collier LLC,14,41.920889,-83.296441,48161.0
+458,fraud_Schuppe-Schuppe,9,39.545984,-77.60544399999999,21713.0
+459,"fraud_Walter, Hettinger and Kessler",10,41.893217,-109.472759,
+460,fraud_Bechtelar-Rippin,9,32.855971999999994,-111.598629,85294.0
+461,fraud_Hamill-D'Amore,11,34.661292,-85.668464,35981.0
+462,fraud_Swift PLC,13,38.341426,-121.134742,95638.0
+463,"fraud_Cronin, Kshlerin and Weber",11,39.427808,-99.434028,67669.0
+464,"fraud_Romaguera, Wehner and Tromp",13,32.134367,-89.245261,39338.0
+465,"fraud_Feil, Hilpert and Koss",9,35.398762,-98.105401,73090.0
+466,fraud_White and Sons,14,32.552715,-96.680191,75125.0
+467,"fraud_Mueller, Gerhold and Mueller",11,37.143497,-76.86901800000001,23883.0
+468,fraud_Botsford and Sons,14,33.034588,-96.361446,75173.0
+469,fraud_Kirlin and Sons,10,41.533669,-109.867285,
+470,fraud_Bednar PLC,13,38.245863,-122.579289,94954.0
+471,"fraud_Runolfsdottir, Mueller and Hand",3,33.461896,-89.68803299999999,38967.0
+472,fraud_Kuphal-Toy,9,42.148886,-93.448887,50236.0
+473,fraud_Bahringer-Streich,9,38.708417,-80.18898100000001,26224.0
+474,"fraud_Wuckert, Wintheiser and Friesen",14,44.862493,-121.787626,
+475,fraud_Crona and Sons,13,30.489038,-95.966593,77830.0
+476,fraud_Prosacco LLC,10,41.474397,-82.745311,44870.0
+477,fraud_Schiller Ltd,10,27.931096000000004,-97.050618,78336.0
+478,fraud_Waelchi-Wolf,13,39.225113,-99.266616,67663.0
+479,fraud_Torphy-Kertzmann,11,35.77365,-99.595348,
+480,"fraud_McCullough, Hudson and Schuster",9,40.574729,-81.907066,44654.0
+481,fraud_Baumbach Ltd,10,32.146968,-83.182569,31023.0
+482,"fraud_Schiller, Blanda and Johnson",14,41.66407,-74.126579,12548.0
+483,fraud_Cartwright PLC,13,47.938229,-102.081699,58770.0
+484,fraud_Reilly LLC,14,31.480463,-97.990718,76566.0
+485,fraud_Cruickshank-Mills,3,40.457979,-74.977028,8556.0
+486,"fraud_Altenwerth, Cartwright and Koss",7,38.044566,-108.863626,81325.0
+487,"fraud_Effertz, Welch and Schowalter",3,40.949038,-76.169227,18241.0
+488,"fraud_Klocko, Runolfsdottir and Breitenberg",11,35.262174,-92.711158,72156.0
+489,fraud_Ruecker-Mayert,13,46.250381,-108.98283,
+490,"fraud_Schroeder, Hauck and Treutel",3,33.694517,-97.46129,76265.0
+491,fraud_Lemke-Gutmann,7,33.866541,-112.505892,85342.0
+492,"fraud_Graham, Hegmann and Hammes",9,41.563748,-84.146641,43567.0
+493,fraud_Reilly and Sons,11,31.342593,-91.859509,71354.0
+494,fraud_Stark-Koss,14,40.346241,-74.82965300000001,8534.0
+495,fraud_Daugherty LLC,13,43.732533,-103.251923,57738.0
+496,"fraud_Denesik, Powlowski and Pouros",14,37.302767,-82.016898,24614.0
+497,fraud_Rippin-VonRueden,11,48.982491,-102.7219,58772.0
+498,fraud_Heller PLC,11,38.727083,-74.811774,
+499,fraud_Hills-Boyer,10,40.159062,-74.597258,8501.0
+500,fraud_Cormier LLC,7,34.353078000000004,-85.64320500000001,35967.0
+501,fraud_Erdman-Ebert,10,40.791799,-72.683255,11977.0
+502,fraud_Bogisich-Weimann,13,31.566317,-84.757791,39846.0
+503,"fraud_Gutmann, McLaughlin and Wiza",14,34.862946,-89.370998,38642.0
+504,fraud_Little Ltd,13,48.115242,-122.652165,98253.0
+505,fraud_Bode-Rempel,13,35.774279,-86.109286,37190.0
+506,"fraud_Kutch, Steuber and Gerhold",9,40.654546,-73.33669,11757.0
+507,fraud_Kessler Inc,12,44.852842,-69.822122,4950.0
+508,fraud_Deckow-Dare,9,32.964028000000006,-105.321954,
+509,fraud_Rolfson-Kunde,10,42.368327,-94.936352,50583.0
+510,fraud_Marvin-Lind,10,38.302159,-81.077584,26656.0
+511,fraud_Barrows PLC,8,39.097427,-93.374791,65321.0
+512,fraud_Abbott-Rogahn,3,41.874726,-99.842215,
+513,fraud_Ziemann-Waters,11,38.790592,-82.747415,45682.0
+514,"fraud_Reinger, Weissnat and Strosin",9,43.763332,-69.402829,4554.0
+515,"fraud_Heathcote, Yost and Kertzmann",7,34.96289,-81.602745,29340.0
+516,fraud_Will Ltd,9,45.582328,-100.431337,57601.0
+517,fraud_Kutch-Wilderman,14,39.583059000000006,-89.539099,62558.0
+518,"fraud_Hermiston, Russel and Price",9,36.346547,-96.563169,74020.0
+519,fraud_Schmidt-Larkin,14,43.656137,-122.656847,97427.0
+520,"fraud_Lang, Towne and Schuppe",13,32.627565000000004,-81.578181,30446.0
+521,"fraud_Weber, Thiel and Hammes",13,37.959472,-79.783626,24445.0
+522,"fraud_Hahn, Bahringer and McLaughlin",10,40.61387,-81.663208,44689.0
+523,"fraud_Koss, Hansen and Lueilwitz",14,33.587385999999995,-81.939943,29860.0
+524,"fraud_Roberts, Ryan and Smith",10,36.081657,-91.268271,72466.0
+525,"fraud_Hintz, Bauch and Smith",11,39.028845,-105.56595,
+526,"fraud_Monahan, Hermann and Johns",12,40.296949,-103.028083,
+527,"fraud_Bahringer, Osinski and Block",9,35.053102,-102.539073,
+528,"fraud_Douglas, DuBuque and McKenzie",12,32.398774,-82.569959,30457.0
+529,fraud_Hackett Group,12,35.625351,-92.084326,72130.0
+530,fraud_Schmeler-Howe,10,41.219697,-78.545902,15849.0
+531,fraud_Predovic Inc,7,42.535687,-77.393923,14808.0
+532,fraud_Langworth LLC,10,40.702471,-74.119274,7105.0
+533,fraud_Bartoletti and Sons,10,37.834553,-74.969096,
+534,fraud_Bernhard-Lesch,9,40.555545,-78.715162,15722.0
+535,fraud_Satterfield-Lowe,12,44.434275,-68.59751700000001,4614.0
+536,"fraud_Runte, Green and Emard",11,40.589422,-79.746431,15084.0
+537,"fraud_Lowe, Dietrich and Erdman",13,43.877826,-84.410892,48612.0
+538,fraud_Jast Ltd,7,28.146575,-81.006072,34773.0
+539,"fraud_Welch, Rath and Koepp",3,42.533914,-90.996781,52053.0
+540,fraud_Skiles LLC,14,34.022585,-87.33032800000001,35503.0
+541,fraud_Ernser-Feest,14,38.988086,-80.50280699999999,26452.0
+542,fraud_Klein Group,3,42.86704,-96.697796,51001.0
+543,"fraud_Torp, Muller and Borer",11,42.446761,-72.651235,1373.0
+544,fraud_Kuhn Group,9,41.770331,-87.955943,60514.0
+545,"fraud_Streich, Rolfson and Wilderman",13,45.198169,-68.095833,
+546,fraud_Bins-Tillman,3,34.853672,-118.929521,93243.0
+547,fraud_Ankunding-Carroll,12,43.087597,-72.487755,5158.0
+548,"fraud_Hahn, Douglas and Schowalter",12,32.282301000000004,-97.239222,76050.0
+549,"fraud_Witting, Beer and Ernser",14,38.780218,-106.016143,81236.0
+550,fraud_Morissette LLC,3,38.588127,-94.36268,64701.0
+551,fraud_Berge-Hills,13,40.266836,-76.215039,17578.0
+552,fraud_Donnelly LLC,3,41.883531,-82.47206,
+553,fraud_Zboncak LLC,9,42.88779,-76.66626600000001,13034.0
+554,"fraud_Turner, Ziemann and Lehner",9,41.760866,-95.589262,51579.0
+555,fraud_Padberg-Sauer,14,39.943235,-111.485104,84660.0
+556,fraud_Schulist Ltd,9,35.383983,-81.70465300000001,28040.0
+557,fraud_Rau-Grant,13,38.010877,-123.142114,
+558,fraud_Osinski Inc,10,40.468967,-88.731288,61737.0
+559,fraud_Berge-Ullrich,14,35.016636,-78.914277,28305.0
+560,fraud_Wuckert-Goldner,14,41.506959,-76.952028,17765.0
+561,fraud_Kertzmann LLC,11,28.889805,-82.388992,34442.0
+562,"fraud_Daugherty, Pouros and Beahan",8,42.668511,-83.556775,48383.0
+563,"fraud_Armstrong, Walter and Gottlieb",9,32.942281,-92.940382,71079.0
+564,fraud_Conroy-Emard,9,40.000232,-90.771912,62353.0
+565,"fraud_Moore, Williamson and Emmerich",14,47.043127,-96.076696,
+566,fraud_Gleason and Sons,13,42.578451,-89.15664100000001,53576.0
+567,"fraud_Roberts, Daniel and Macejkovic",13,35.906876000000004,-98.292109,73744.0
+568,fraud_Turner LLC,12,39.682825,-119.981598,96105.0
+569,fraud_Crooks and Sons,10,41.973698,-74.07224000000001,12491.0
+570,fraud_Waelchi Inc,13,39.565855,-78.80005899999999,26767.0
+571,"fraud_Hoppe, Harris and Bednar",3,34.967822,-98.663291,73062.0
+572,fraud_Effertz LLC,3,33.74242,-81.515909,29805.0
+573,fraud_Lubowitz-Walter,13,42.580186,-73.030354,1256.0
+574,fraud_Hyatt-Blick,12,39.845751,-95.984998,66522.0
+575,fraud_Carroll PLC,11,29.529684000000003,-89.77256899999999,70083.0
+576,fraud_Lemke and Sons,12,33.839534,-86.63680699999999,35133.0
+577,fraud_Treutel-King,12,44.310055,-103.74118,57754.0
+578,fraud_Fadel-Hilpert,11,42.374139,-96.310345,51054.0
+579,fraud_Altenwerth-Kilback,14,45.419457,-84.259784,49765.0
+580,fraud_Bauch-Blanda,3,34.523171000000005,-112.625043,
+581,fraud_Sporer-Keebler,10,35.717327000000004,-106.154266,87547.0
+582,fraud_Hirthe-Beier,11,42.618509,-82.798472,48045.0
+583,fraud_Wisozk and Sons,5,45.996544,-111.108921,
+584,fraud_Streich Ltd,14,33.203031,-92.952229,71758.0
+585,fraud_Schoen Ltd,13,30.274464,-83.5618,32347.0
+586,fraud_Windler LLC,13,36.180743,-79.02651999999999,27541.0
+587,fraud_Nolan-Williamson,13,41.507065,-74.437733,12721.0
+588,fraud_Roob-Okuneva,11,36.813993,-92.286831,65638.0
+589,"fraud_Lakin, Ferry and Beatty",9,32.802139000000004,-89.849028,39045.0
+590,fraud_Gottlieb Group,13,27.704133,-80.623091,32948.0
+591,fraud_Harris Group,9,39.997006,-81.723049,43762.0
+592,fraud_Fritsch LLC,12,43.6287,-94.120707,56013.0
+593,fraud_Corwin-Romaguera,12,44.603236,-71.97857900000001,5871.0
+594,fraud_Dietrich-Fadel,11,33.507377000000005,-117.205948,92590.0
+595,"fraud_Kling, Howe and Schneider",14,34.922625,-99.196062,73655.0
+596,fraud_Kozey-Kuhlman,10,41.855381,-74.319717,12461.0
+597,fraud_Graham and Sons,11,39.808212,-89.047174,62522.0
+598,fraud_Jacobi and Sons,8,35.258645,-86.855861,38459.0
+599,"fraud_Eichmann, Hayes and Treutel",12,41.087806,-80.479647,16143.0
+600,"fraud_Brown, Homenick and Lesch",11,39.207999,-120.367391,96146.0
+601,fraud_Erdman-Schaden,10,38.958836,-96.431283,66834.0
+602,"fraud_Durgan, Gislason and Spencer",14,34.258168,-83.595836,30558.0
+603,fraud_Friesen-Ortiz,10,33.313063,-95.750045,75448.0
+604,fraud_Morissette-Schaefer,10,31.950595,-95.386273,75766.0
+605,"fraud_Nienow, Ankunding and Collier",5,28.526723,-82.49802,34609.0
+606,"fraud_Cole, Hills and Jewess",14,37.896274,-120.73983,95228.0
+607,"fraud_Conroy, Balistreri and Gorczany",11,38.3343,-85.307191,40068.0
+608,"fraud_Reichel, Bradtke and Blanda",12,35.457704,-83.430904,28713.0
+609,"fraud_O'Reilly, Mohr and Purdy",14,40.129068,-79.440896,15610.0
+610,fraud_Ullrich Ltd,13,36.871211,-85.664938,42124.0
+611,fraud_Schroeder Group,11,38.766596,-90.314011,63135.0
+612,fraud_Boyer-Haley,12,43.027765,-98.314699,57380.0
+613,"fraud_Dare, Casper and Bartoletti",13,36.405248,-91.119532,72478.0
+614,"fraud_Medhurst, Cartwright and Ebert",10,42.190738,-89.134052,61102.0
+615,fraud_Quitzon-Goyette,14,44.52861,-104.23373,82710.0
+616,fraud_Wilkinson LLC,10,34.160005,-93.529058,71921.0
+617,fraud_Romaguera and Sons,12,32.769712,-81.739359,30467.0
+618,fraud_Larkin Ltd,13,42.182211,-109.730944,
+619,"fraud_Fadel, Mertz and Rippin",3,29.113455,-83.688314,
+620,fraud_Huel Ltd,1,29.50385,-95.406555,77545.0
+621,fraud_Cummerata-Hilpert,3,24.059864,-81.21813900000001,
+622,fraud_Zemlak Group,1,33.511484,-93.269707,71858.0
+623,fraud_Dare-Gibson,11,39.702896,-77.534787,21719.0
+624,fraud_Adams-Barrows,11,46.955394,-86.93592199999999,
+625,fraud_Block-Hauck,12,40.388188,-78.585578,15938.0
+626,fraud_Howe PLC,3,38.618792,-99.266388,67548.0
+627,fraud_Leffler-Goldner,10,40.797357,-76.89921899999999,17870.0
+628,fraud_Tillman LLC,12,41.096636,-87.516071,60958.0
+629,fraud_Pacocha-Weissnat,13,32.908156,-94.271474,75555.0
+630,fraud_Morissette PLC,8,46.872663,-86.22457299999999,
+631,fraud_Jerde-Hermann,12,34.179784000000005,-117.61598899999998,91701.0
+632,"fraud_Kihn, Brakus and Goyette",10,36.365533,-105.693983,87557.0
+633,"fraud_Hills, Hegmann and Schaefer",11,34.903213,-85.372261,30725.0
+634,fraud_Friesen Ltd,11,43.640488,-123.744764,97436.0
+635,fraud_Kilback and Sons,3,35.221447999999995,-97.690451,73089.0
+636,fraud_Ebert-Daugherty,12,31.776087,-81.59733299999999,31301.0
+637,"fraud_Hermiston, Pacocha and Smith",11,39.8561,-79.695352,15445.0
+638,fraud_Auer LLC,10,36.382922,-92.63063,72619.0
+639,fraud_Fadel Inc,11,34.400345,-101.29975,79257.0
+640,fraud_Daugherty-Thompson,9,39.849068,-94.176537,64689.0
+641,fraud_Romaguera Ltd,11,39.250235,-80.479111,26426.0
+642,fraud_Parker-Kunde,10,43.104412,-73.705951,12866.0
+643,fraud_Barton LLC,13,38.881886,-81.484123,25270.0
+644,fraud_Kassulke Inc,3,46.561576,-102.745121,58647.0
+645,"fraud_McLaughlin, Armstrong and Koepp",12,36.856792,-86.49801,42170.0
+646,fraud_Abernathy and Sons,9,37.387947,-76.28583,23130.0
+647,fraud_Bahringer Group,11,43.33188,-76.48236,13069.0
+648,fraud_Connelly PLC,9,33.079436,-117.494028,
+649,"fraud_Willms, Kris and Bergnaum",8,19.968555,-155.053512,
+650,fraud_Thiel Ltd,12,43.335519,-86.542705,
+651,fraud_Kris-Kertzmann,12,41.494516,-69.494342,
+652,fraud_O'Connell-Ullrich,14,35.452096999999995,-83.17824499999999,28789.0
+653,fraud_Kozey-McDermott,12,40.659439,-98.89309,68840.0
+654,fraud_Reichel LLC,10,39.392672,-74.781161,8317.0
+655,fraud_Thiel-Thiel,3,41.856233,-74.527305,12740.0
+656,fraud_Rau-Robel,13,40.891435,-93.668335,50264.0
+657,fraud_Haley Group,5,39.352658,-82.98711,45601.0
+658,"fraud_Turcotte, McKenzie and Koss",3,49.228888,-118.206791,
+659,fraud_Stamm-Witting,7,38.973135,-93.829432,64071.0
+660,"fraud_Ritchie, Bradtke and Stiedemann",12,31.843236,-95.901261,75861.0
+661,"fraud_Nienow, Barrows and Romaguera",10,33.713655,-112.446546,85387.0
+662,fraud_Shields-Wunsch,11,38.573394,-75.056649,19970.0
+663,fraud_Goyette-Herzog,12,36.227125,-84.048395,37705.0
+664,fraud_Shields Inc,6,38.461417,-85.09473299999999,40050.0
+665,"fraud_Hayes, Marquardt and Dibbert",1,34.041471,-82.215213,29819.0
+666,"fraud_Swaniawski, Bahringer and Ledner",6,39.374924,-93.844667,64035.0
+667,fraud_Roob LLC,6,42.468503000000005,-73.09931,1226.0
+668,"fraud_Rutherford, Homenick and Bergstrom",6,33.146799,-105.745195,88340.0
+669,"fraud_Harris, Gusikowski and Heaney",6,34.320419,-103.088468,88135.0
+670,fraud_Hintz-Bruen,6,32.676434,-94.321012,75657.0
+671,"fraud_Turner, Ruecker and Parisian",5,42.958228000000005,-76.360875,13108.0
+672,fraud_Ruecker Group,1,31.427155,-88.74636600000001,
+673,fraud_Johns-Hoeger,3,30.55008,-87.304691,32534.0
+674,"fraud_Ritchie, Oberbrunner and Cremin",12,38.708021,-119.01684,
+675,fraud_Haag-Blanda,9,28.598917,-95.249534,
+676,"fraud_Hagenes, Hermann and Stroman",12,40.654686,-75.993437,17960.0
+677,fraud_Reichert-Weissnat,12,41.596102,-90.147797,61257.0
+678,"fraud_Hyatt, Russel and Gleichner",11,46.553834,-87.605517,49866.0
+679,"fraud_Champlin, Rolfson and Connelly",12,35.906759,-104.71956,87752.0
+680,fraud_Leannon-Nikolaus,12,38.644246,-82.474665,45696.0
+681,fraud_Tromp Group,12,45.45585,-99.027473,57451.0
+682,fraud_Kovacek Ltd,12,39.232277,-89.535895,62015.0
+683,fraud_Kutch Group,6,33.084348,-79.674616,29429.0
+684,"fraud_Kohler, Lindgren and Koelpin",6,43.014617,-75.095938,13340.0
+685,fraud_Heller-Abshire,6,42.122215,-105.083669,82201.0
+686,"fraud_Swift, Bradtke and Marquardt",6,30.188386,-98.993716,78624.0
+687,"fraud_Larson, Quitzon and Spencer",12,39.022731,-93.185436,65340.0
+688,"fraud_Kilback, Nitzsche and Leffler",12,37.716915,-83.885846,40472.0
+689,fraud_Jakubowski Group,9,41.225244,-81.024541,44288.0
+690,fraud_Breitenberg LLC,12,46.978677000000005,-85.632759,
+691,fraud_Collier Inc,6,46.167086,-86.44581,
+692,fraud_Paucek-Wiza,6,40.958936,-84.629338,45886.0
+693,fraud_Kessler Group,12,40.403187,-76.77221999999999,17112.0
