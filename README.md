@@ -35,6 +35,8 @@ Fact: transactions
 └── date (dim)
 ```
 
+![Schema](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics/blob/main/Visualizations/Schema.png?raw=true)
+
 **Tools used**
 ```
 🐘 PostgreSQL – SQL analytics
